@@ -1,0 +1,9 @@
+[package]
+name = "fault_tolerant_control_alloc_rs"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Implementation Rust de reference de ALG_FAULT_TOLERANT_CONTROL_ALLOC"
+repository = "https://github.com/dagornc/alg-fault-tolerant-control-alloc"
+
+[dependencies]
